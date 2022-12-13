@@ -1,1 +1,1 @@
-cd "/Users/$env:username/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup"; echo start chrome https://www.youtube.com/watch?v=9K2Y-rfUy_4&feature=youtu.be > mayonese.bat
+cd "/Users/$env:username/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup"; echo start chrome "https://www.youtube.com/watch?v=9K2Y-rfUy_4" > mayonese.bat
